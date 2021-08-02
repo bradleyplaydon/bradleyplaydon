@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently undertaking a Diploma in Full Stack Web Development
 
-- 👨‍💻 I am currently working on a CSGO Skin Website!
-
 - 💬 Ask me about **Shopify, Gaming, Coding and Cars 🏎**
 
 - 📫 Let's collab! **bplaydon@gmail.com**
