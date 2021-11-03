@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleyplaydon&label=Profile%20views&color=0e75b6&style=flat" alt="bradleyplaydon" /> </p>
 
-- 🔭 I’m currently undertaking a Diploma in Full Stack Web Development
-
-- 💬 Ask me about **Shopify, Gaming, Coding and Cars 🏎**
+- 💬 Ask me about **Shopify, Gaming, Coding, NFT's, Blockchain **
 
 - 📫 Let's collab! **bplaydon@gmail.com**
 
