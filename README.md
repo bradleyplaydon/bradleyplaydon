@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradleyplaydon&label=Profile%20views&color=0e75b6&style=flat" alt="bradleyplaydon" /> </p>
 
-- 💬 Ask me about **Shopify, Gaming, Coding, NFT's, Blockchain **
+- 💬 Ask me about **Shopify, Gaming, Coding, NFT's, Blockchain**
 
 - 📫 Let's collab! **bplaydon@gmail.com**
 
