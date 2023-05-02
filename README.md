@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bradley-playdon/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bradleyplaydon" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/bradley-playdon/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bradleyplaydon" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
