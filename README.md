@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Bradley Playdon 👋</h1>
-<h3 align="center">React & TypeScript Dev • Crypto Enthusiast • Context Engineering Explorer</h3>
+<h1 align="center">Hey, I'm Bradley Playdon</h1>
+<h3 align="center">React & TypeScript Dev • Crypto Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bradley-playdon/" target="_blank">
